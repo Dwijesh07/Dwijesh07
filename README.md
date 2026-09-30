@@ -1,5 +1,118 @@
-# 💫 About Me:
-I'm currently working on<br>Shift Ready — a multi-tenant B2B SaaS platform for retail staff training, built with React + Supabase + Groq LLM integration. Also shipping the final sprint of my Swinburne capstone: a Hyperledger Fabric blockchain network for AML/CTF compliance.<br>I'm looking to collaborate on<br>Open-source tools in the React/Node.js ecosystem or developer productivity projects. Especially interested in building CLI tools, API wrappers, or dashboard components that solve real problems for Melbourne dev teams.<br>I'm looking for help with<br>System design at scale — moving from "works on my machine" to production-grade architecture. Want to learn how teams at Atlassian/Canva handle load balancing, caching strategies, and database optimization for millions of users.<br> I'm currently learning<br>TypeScript (migrating my React projects from JS)<br>AWS Solutions Architect cert path (EC2, S3, Lambda, RDS)<br>Kubernetes basics for container orchestration beyond Docker Compose<br>Ask me about<br>Building full-stack apps with React + Node.js + PostgreSQL/MongoDB<br>Hyperledger Fabric — setting up private blockchain networks, writing chaincode, Docker deployment<br>Agile/Scrum — I've been Scrum Master for 2 uni teams (11 sprints total)<br>Moving from Mauritius to Melbourne and breaking into the AU tech market<br>Fun fact<br>I once debugged a 3-branch Git merge conflict at 2 AM while my team slept, got 92.9% test coverage the next morning, and still made my 9 AM standup. Sleep is temporary, clean Git history is forever.<br>
+# Hey, I'm Isar 👋
+
+I'm a **Computer Science graduate based in Melbourne**, specialising in **Software Development and Data Science**.
+
+I enjoy building products end-to-end — from designing the frontend and APIs to working through databases, authentication, deployment, debugging and the inevitable `"why does this only break in production?"` moments.
+
+Right now, I'm focused on **full-stack development, applied AI and cloud**, and I'm especially interested in building software that solves real business problems rather than projects that exist only as demos.
+
+## 🚀 What I'm building
+
+### [ShiftReady](YOUR_SHIFTREADY_REPO_URL)
+
+A multi-tenant **AI-powered retail training SaaS platform** built with React and Supabase.
+
+Managers can create organisations, invite staff, upload store-specific content and use AI-powered training tools, quizzes, simulations and employee evaluation workflows.
+
+**Working with:**
+`React` `Supabase` `PostgreSQL` `RLS` `Authentication` `LLMs` `REST APIs`
+
+### [eAUD – Australian CBDC Prototype](https://github.com/Dwijesh07/P29-Designing-Australia-s-Central-Bank-Digital-Currency)
+
+A distributed digital-currency prototype built as part of my Swinburne capstone.
+
+I worked as **Lead Developer and Scrum Master** in a six-person team, building a four-organisation Hyperledger Fabric network with digital wallets, KYC workflows, transaction monitoring, AML/CTF rules and role-based access.
+
+**Working with:**
+`Hyperledger Fabric` `React` `Node.js` `Express` `CouchDB` `Docker` `Keycloak` `OAuth 2.0`
+
+→ [View the project case study](https://dwijesh07.github.io/eaud-cbdc-case-study/)
+
+## 🧠 AI is part of how I build
+
+I've worked on several AI-enabled applications using **LLMs, prompt engineering, RAG concepts and API-driven AI workflows**.
+
+I use AI during development for things like:
+
+* debugging unfamiliar problems
+* exploring implementation approaches
+* understanding documentation faster
+* generating and refining test cases
+* reviewing code and edge cases
+* automating repetitive development tasks
+
+I still like understanding what's happening underneath — AI is a tool in my workflow, not a replacement for knowing why the code works.
+
+## 🛠️ Tech I work with
+
+**Frontend**
+React · JavaScript · TypeScript · HTML · CSS
+
+**Backend**
+Node.js · Express · Python · FastAPI · C#/.NET · REST APIs
+
+**Data**
+PostgreSQL · SQL · MongoDB · Supabase · Firebase · CouchDB
+
+**Cloud & DevOps**
+AWS · Azure · Docker · Git · GitHub · Azure DevOps · CI/CD
+
+**AI**
+LLM Applications · Prompt Engineering · RAG · AI Automation · OpenAI API · Groq
+
+**Other**
+Hyperledger Fabric · OAuth 2.0 · OpenID Connect · Agile/Scrum
+
+## 🌱 Currently getting better at
+
+* TypeScript and stronger frontend architecture
+* C#/.NET for production application development
+* AWS architecture beyond the fundamentals
+* Docker and containerised deployments
+* system design, caching and database performance
+* building applications that can scale beyond the first few users
+
+## 🤝 I'd like to collaborate on
+
+I'm interested in contributing to projects around:
+
+* React / TypeScript
+* Node.js and API development
+* developer tools
+* AI-powered applications
+* dashboards and internal tools
+* open-source projects with practical use cases
+
+If you're building something interesting, feel free to reach out.
+
+## 💬 Ask me about
+
+* building full-stack applications with React + Node.js
+* Supabase authentication, RLS and multi-tenant applications
+* integrating LLMs into real products
+* Hyperledger Fabric and permissioned blockchain networks
+* debugging full-stack applications
+* Agile/Scrum and working in small development teams
+* moving from Mauritius to Melbourne and starting a career in Australian tech
+
+## ☕ A little about me
+
+A large part of learning software development for me has been building something, breaking it, figuring out why it broke, and then rebuilding it properly.
+
+I've debugged merge conflicts late at night, chased authentication bugs through multiple services, broken RLS policies more times than I'd like to admit, and learned far more from those moments than from code that worked on the first try.
+
+That's probably why I still enjoy debugging.
+
+---
+
+### 🔗 Find me
+
+🌐 [Portfolio](https://dwijesh07.github.io/isar-portfolio/)
+💼 [LinkedIn](https://www.linkedin.com/in/isar-ujoodah-ab93ba2a2)
+💻 [GitHub](https://github.com/Dwijesh07)
+
+**Open to graduate and junior opportunities across Software Engineering, Full-Stack Development, AI and Cloud in Melbourne.**
+
 
 
 ## 🌐 Socials:
