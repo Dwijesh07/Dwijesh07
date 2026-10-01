@@ -107,7 +107,7 @@ That's probably why I still enjoy debugging.
 
 ### 🔗 Find me
 
-🌐 [Portfolio](https://dwijesh07.github.io/isar-portfolio/)
+🌐 [Portfolio]
 💼 [LinkedIn](https://www.linkedin.com/in/isar-ujoodah-ab93ba2a2)
 💻 [GitHub](https://github.com/Dwijesh07)
 
